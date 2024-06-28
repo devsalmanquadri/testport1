@@ -27094,7 +27094,7 @@ var _stylesCss = require("./styles.css");
     email: "secretofsk@gmail.com",
     gitHub: "devsalmanquadri",
     instagram: "__salman__quadri__",
-    linkedIn: "salmanQuadri"
+    linkedIn: "salmanquadri"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
